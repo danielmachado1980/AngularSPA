@@ -3,11 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 
-/// <summary>
-/// 
-/// 
-/// </summary>
-
 namespace SPA_MVC_StudentInfo.Models
 {
     // Models returned by AccountController actions.
